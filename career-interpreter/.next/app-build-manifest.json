@@ -1,0 +1,89 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/app/_not-found/page-ba204756c04cdaa9.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/css/11f92c1dccbcd4ce.css",
+      "static/chunks/231-85e9accc9bd0d15d.js",
+      "static/chunks/app/layout-f36d340029758c1f.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/app/about/page-2e52beca69f9ed22.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/ad2866b8-fd5911ae5fa3860d.js",
+      "static/chunks/164f4fb6-1496f2e39f286e56.js",
+      "static/chunks/231-85e9accc9bd0d15d.js",
+      "static/chunks/785-3600879aea2217f1.js",
+      "static/chunks/489-00aa87a584e30076.js",
+      "static/chunks/app/dashboard/page-f849aaff5b5e0856.js"
+    ],
+    "/hr-diagnose/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/app/hr-diagnose/page-0b945722047cc871.js"
+    ],
+    "/hr-diagnose/results/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/ad2866b8-fd5911ae5fa3860d.js",
+      "static/chunks/164f4fb6-1496f2e39f286e56.js",
+      "static/chunks/231-85e9accc9bd0d15d.js",
+      "static/chunks/785-3600879aea2217f1.js",
+      "static/chunks/489-00aa87a584e30076.js",
+      "static/chunks/app/hr-diagnose/results/page-11e871952fab95d8.js"
+    ],
+    "/jobs/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/231-85e9accc9bd0d15d.js",
+      "static/chunks/app/jobs/page-14525ed9f75cce3f.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/231-85e9accc9bd0d15d.js",
+      "static/chunks/app/page-03adecb6ce66ca09.js"
+    ],
+    "/roadmap/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/231-85e9accc9bd0d15d.js",
+      "static/chunks/app/roadmap/page-9efd3972a5d86389.js"
+    ],
+    "/upload/page": [
+      "static/chunks/webpack-863575e285beee1d.js",
+      "static/chunks/fd9d1056-aa9555cb32eb619b.js",
+      "static/chunks/23-10b6a6da16239a61.js",
+      "static/chunks/main-app-1a208e66f5215f69.js",
+      "static/chunks/app/upload/page-4dd64908880abefb.js"
+    ]
+  }
+}

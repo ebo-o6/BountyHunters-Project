@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/api/hr-diagnose/route": "app/api/hr-diagnose/route.js",
+  "/api/diagnose/route": "app/api/diagnose/route.js",
+  "/api/jobs/route": "app/api/jobs/route.js",
+  "/api/parse-cv/route": "app/api/parse-cv/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/match-jobs/route": "app/api/match-jobs/route.js",
+  "/hr-diagnose/page": "app/hr-diagnose/page.js",
+  "/hr-diagnose/results/page": "app/hr-diagnose/results/page.js",
+  "/jobs/page": "app/jobs/page.js",
+  "/page": "app/page.js",
+  "/roadmap/page": "app/roadmap/page.js",
+  "/upload/page": "app/upload/page.js"
+}
