@@ -9,4 +9,11 @@
 5. Enjoy :)
 
 # Video Preview
-![](CVDiagnose.mp4)
+
+## CV Diagnose
+https://github.com/user-attachments/assets/d0622617-a24f-44ae-ad07-9688c14a5da0
+
+## HR Diagnose
+https://github.com/user-attachments/assets/b41738a4-e077-4b52-b8c1-b851163b11c2
+
+
