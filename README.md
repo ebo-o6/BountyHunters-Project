@@ -9,4 +9,4 @@
 5. Enjoy :)
 
 # Video Preview
-![](CV Diagnose.mp4)
+![](CVDiagnose.mp4)
